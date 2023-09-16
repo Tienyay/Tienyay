@@ -1,10 +1,151 @@
-- 👋 Hi, I’m @Tienyay
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+<html lang="en"><head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link href="iphone14.css" rel="stylesheet">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
+    <script src="iphone14.js"></script>
+</head>
+<body>
+        <div>
+            <div class="nuttrai">
+                <div class="thongbao"></div>
+                <div class="tangamluong"></div>
+                <div class="giamamluong"></div>
+            </div>
+                <div class="khung">
+                    <div class="manhinh">
+                        <div class="cum">
+                            <div class="dynamic"></div>
+                            <div class="faceID"></div>
+                            <div class="cam"><div></div></div>
+                        </div>
+                        <div class="manhinhchung">        
+                            <div class="manhinhtren"><div></div></div>
+                            <div class="manhinhduoi"><div></div></div>
+                        </div>
+                    </div>
+                </div>
+            <div class="nutphai">
+                <div class="nguon"></div>
+            </div>
+        </div>  
 
-<!---
-Tienyay/Tienyay is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+</body></html>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link href="iphone14.css" rel="stylesheet">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
+    <script src="iphone14.js"></script>
+</head>
+<body>
+        <div>
+            <div class="nuttrai">
+                <div class="thongbao"></div>
+                <div class="tangamluong"></div>
+                <div class="giamamluong"></div>
+            </div>
+                <div class="khung">
+                    <div class="manhinh">
+                        <div class="cum">
+                            <div class="dynamic"></div>
+                            <div class="faceID"></div>
+                            <div class="cam"><div></div></div>
+                        </div>
+                        <div class="manhinhchung">        
+                            <div class="manhinhtren"><div></div></div>
+                            <div class="manhinhduoi"><div></div></div>
+                        </div>
+                    </div>
+                </div>
+            <div class="nutphai">
+                <div class="nguon"></div>
+            </div>
+        </div>  
+
+</body>
+   <div>
+            <div class="nuttrai">
+                <div class="thongbao"></div>
+                <div class="tangamluong"></div>
+                <div class="giamamluong"></div>
+            </div>
+                <div class="khung">
+                    <div class="manhinh">
+                        <div class="cum">
+                            <div class="dynamic"></div>
+                            <div class="faceID"></div>
+                            <div class="cam"><div></div></div>
+                        </div>
+                        <div class="manhinhchung">        
+                            <div class="manhinhtren"><div></div></div>
+                            <div class="manhinhduoi"><div></div></div>
+                        </div>
+                    </div>
+                </div>
+            <div class="nutphai">
+                <div class="nguon"></div>
+            </div>
+        </div>
+        <body>
+        <div>
+            <div class="nuttrai">
+                <div class="thongbao"></div>
+                <div class="tangamluong"></div>
+                <div class="giamamluong"></div>
+            </div>
+                <div class="khung">
+                    <div class="manhinh">
+                        <div class="cum">
+                            <div class="dynamic"></div>
+                            <div class="faceID"></div>
+                            <div class="cam"><div></div></div>
+                        </div>
+                        <div class="manhinhchung">        
+                            <div class="manhinhtren"><div></div></div>
+                            <div class="manhinhduoi"><div></div></div>
+                        </div>
+                    </div>
+                </div>
+            <div class="nutphai">
+                <div class="nguon"></div>
+            </div>
+        </div>  
+
+</body>
+<html lang="en"><head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link href="iphone14.css" rel="stylesheet">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
+    <script src="iphone14.js"></script>
+</head>
+<body>
+        <div>
+            <div class="nuttrai">
+                <div class="thongbao"></div>
+                <div class="tangamluong"></div>
+                <div class="giamamluong"></div>
+            </div>
+                <div class="khung">
+                    <div class="manhinh">
+                        <div class="cum">
+                            <div class="dynamic"></div>
+                            <div class="faceID"></div>
+                            <div class="cam"><div></div></div>
+                        </div>
+                        <div class="manhinhchung">        
+                            <div class="manhinhtren"><div></div></div>
+                            <div class="manhinhduoi"><div></div></div>
+                        </div>
+                    </div>
+                </div>
+            <div class="nutphai">
+                <div class="nguon"></div>
+            </div>
+        </div>  
+
+</body></html>
